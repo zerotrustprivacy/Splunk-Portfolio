@@ -3,12 +3,10 @@
 <p>This is the official <strong>SPLUNK</strong> documentation for better reference.</p><p>https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/WhatsInThisManual</p>
 <h1>Splunk Infastructure Monitoring</h1>
 <p></p>
-<h3>Detections and Dashboards with in the Splunk IM platform</p>
+<h3>Detections and Dashboards with in the Splunk IM platform</h3>
   <img src="detections3.png>
    <img src="detections2.png>
     <img src="detections.png>
-
-  
   <p></p>
   <p></p>
   <h1>Data Models</h1>
