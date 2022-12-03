@@ -17,3 +17,9 @@
   <img src="datamd4.png">
   <img src="datamd3.png">
   <img src="datamd2.png">
+<p></p>
+<p></p>
+<h3>Scheduled Alert and Reports</h3>
+<img src="schalerts1.png">
+<img src="schalerts2.png">
+<img src="statproc2.png">
