@@ -24,3 +24,4 @@
 <img src="schalerts1.png">
 <img src="schalerts2.png">
 <img src="statproc2.png">
+<img src="StatisticalProcessing1.png">
