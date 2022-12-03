@@ -1,7 +1,7 @@
 # Splunk-Portfolio
-<p>"What is Splunk?"</p>
-<p>Splunk is a data platform that reads, processes and monitors data for any size business.</p>
-<p>This is the official <strong>SPLUNK</strong> documentation for better reference.https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/WhatsInThisManual</p>
+<p>"What is <strong>Splunk?</strong>"</p>
+<p><strong>Splunk</strong> is a data platform that reads, processes and monitors data for any size business.</p>
+<p>This is the official <strong>SPLUNK</strong> documentation for more information: https://www.splunk.com/en_us/about-us/why-splunk.html</p>
 <h1>Splunk Infastructure Monitoring</h1>
 <p></p>
 <h3>Detections and Dashboards within the Splunk IM platform</h3>
