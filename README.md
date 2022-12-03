@@ -4,12 +4,13 @@
 <h1>Splunk Infastructure Monitoring</h1>
 <p></p>
 <h3>Detections and Dashboards within the Splunk IM platform</h3>
-  <img src="detections3.png>
-   <img src="detections2.png>
-    <img src="detections.png>
-  <p></p>
-  <p></p>
-  <h1>Data Models</h1>
+<img src="detections3.png">
+<img src="detections2.png">
+<img src="detections.png">
+<p></p>
+<p></p>
+<h1> Splunk Enterprise</h1>
+<h3>Data Models</h3>
   <p></p>
   <img src="datamd.png">
   <img src="datamd5.png">
