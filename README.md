@@ -25,3 +25,8 @@
 <img src="schalerts2.png">
 <img src="statproc2.png">
 <img src="StatisticalProcessing1.png">
+<br>
+<h3>Lookups</h3>
+<h2>Using lookups to add other fields and values to events</h2>
+<img src="Lookups_Lesson_Splunk.png">
+<br>
