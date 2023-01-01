@@ -28,5 +28,5 @@
 <br>
 <h3>Lookups</h3>
 <h2>Using lookups to add other fields and values to events</h2>
-<img src="Lookups_Lesson_Splunk.png">
+<img src="Lookups_Lesson _ Splunk.png">
 <br>
