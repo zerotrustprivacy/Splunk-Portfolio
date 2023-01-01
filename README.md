@@ -3,23 +3,22 @@
 <p><strong>Splunk</strong> is a data platform that reads, processes and monitors data for any size business.</p>
 <p>This is the official <strong>SPLUNK</strong> documentation for more information: https://www.splunk.com/en_us/about-us/why-splunk.html</p>
 <h1>Splunk Infastructure Monitoring</h1>
-<p></p>
+<br>
 <h3>Detections and Dashboards within the Splunk IM platform</h3>
 <img src="detections3.png">
 <img src="detections2.png">
 <img src="detections.png">
 <p></p>
-<p></p>
+<br>
 <h1> Splunk Enterprise</h1>
 <h3>Data Models</h3>
-  <p></p>
+  <br>
   <img src="datamd.png">
   <img src="datamd5.png">
   <img src="datamd4.png">
   <img src="datamd3.png">
   <img src="datamd2.png">
-<p></p>
-<p></p>
+<br>
 <h3>Scheduled Alerts and Reports</h3>
 <img src="schalerts1.png">
 <img src="schalerts2.png">
@@ -27,6 +26,6 @@
 <img src="StatisticalProcessing1.png">
 <br>
 <h3>Lookups</h3>
-<h2>Using lookups to add other fields and values to events</h2>
+<h4>Using lookups to add other fields and values to events</h4>
 <img src="Lookups_Lesson _ Splunk.png">
 <br>
